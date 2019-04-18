@@ -1,0 +1,59 @@
+.leftBorder{
+    border-left: 3px solid rgb(117, 64, 39);
+}
+
+.rightBorder{
+    border-right: 3px solid rgb(117, 64, 39);
+}
+
+.topBorder{
+    border-top: 3px solid rgb(117, 64, 39);
+}
+
+.bottomBorder{
+    border-bottom: 3px solid rgb(117, 64, 39);
+}
+
+.topLeftBorder{
+    border-left: 3px solid rgb(117, 64, 39);
+    border-top: 3px solid rgb(117, 64, 39);
+}
+
+.topRightBorder{
+    border-right: 3px solid rgb(117, 64, 39);
+    border-top: 3px solid rgb(117, 64, 39);
+}
+
+.bottomLeftBorder{
+    border-left: 3px solid rgb(117, 64, 39);
+    border-bottom: 3px solid rgb(117, 64, 39);
+}
+
+.bottomRightBorder{
+    border-right: 3px solid rgb(117, 64, 39);
+    border-bottom: 3px solid rgb(117, 64, 39);
+}
+
+.leftRightTopBorder{
+    border-right: 3px solid rgb(117, 64, 39);
+    border-top: 3px solid rgb(117, 64, 39);
+    border-left: 3px solid rgb(117, 64, 39);
+}
+
+.leftRightBottomBorder{
+    border-right: 3px solid rgb(117, 64, 39);
+    border-bottom: 3px solid rgb(117, 64, 39);
+    border-left: 3px solid rgb(117, 64, 39);
+}
+
+.topLeftBottomBorder{
+    border-top: 3px solid rgb(117, 64, 39);
+    border-bottom: 3px solid rgb(117, 64, 39);
+    border-left: 3px solid rgb(117, 64, 39);
+}
+
+.topRightBottomBorder{
+    border-top: 3px solid rgb(117, 64, 39);
+    border-bottom: 3px solid rgb(117, 64, 39);
+    border-right: 3px solid rgb(117, 64, 39);
+}
